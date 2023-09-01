@@ -32,6 +32,8 @@ cd tfc-getting-started
 
 ### 3. Run the setup script and follow the prompts
 
+
+
 ```
 ./scripts/setup.sh
 ```
